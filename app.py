@@ -1,3 +1,4 @@
+# KR2: Kovalishin
 import os
 import socket
 
